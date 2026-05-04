@@ -1,0 +1,22 @@
+# Core Telegram Library
+telethon==1.34.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests & API Calls
+requests==2.31.0
+aiohttp==3.9.1
+httpx==0.25.2
+
+# Async Support
+asyncio==3.4.3
+
+# Date/Time Utilities
+python-dateutil==2.8.2
+
+# Optional: Advanced Features
+pillow==10.1.0
+cryptography==41.0.7
+pytz
+motor
